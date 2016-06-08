@@ -1,0 +1,2 @@
+# Algorithm-Class-Example
+This is a little cs file you can run as a c# Console application that will help you understand what the math should look like when you pull the user input from you database and calculate the risk. I only have a couple of the questions coded but this is the basic format. Also note that I have a bit of extra code in here just so that it can operate as a console application that you can run and input data of your own. Hope this helps!
